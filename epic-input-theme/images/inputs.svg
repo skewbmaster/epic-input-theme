@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1000"
+   height="500"
+   viewBox="0 0 200 100"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   sodipodi:docname="inputsndots.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1"
+     inkscape:cx="505.4998"
+     inkscape:cy="215.74713"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     units="px"
+     scale-x="0.2"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="AnalogR"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <circle
+       style="fill:#1b1b1b;fill-opacity:1;fill-rule:evenodd;stroke-width:0.2"
+       id="path839"
+       cx="140.5"
+       cy="70"
+       r="20"
+	   class="analog-button"
+	   ojd-button="R3"/>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="AnalogL">
+    <circle
+       style="fill:#1b1b1b;fill-opacity:1;fill-rule:evenodd;stroke-width:0.264583"
+       id="path12"
+       cx="-78.5"
+       cy="50"
+       r="40"
+       transform="scale(-1,1)"
+	   class="analog-button"
+	   ojd-button="L3" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Buttons">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:8px;line-height:1.25;font-family:Calibri;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.2;-inkscape-font-specification:Calibri;font-stretch:normal;font-variant:normal;"
+       x="125.2"
+       y="28"
+       id="text890"><tspan
+         sodipodi:role="line"
+         id="tspan888"
+         x="125.2"
+         y="28"
+         style="stroke-width:0.2;-inkscape-font-specification:Calibri;font-family:Calibri;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;" /></text>
+    <g
+       id="g931"
+       transform="translate(10.5)">
+      <circle
+         style="fill:#1b1b1b;fill-opacity:1;fill-rule:evenodd;stroke-width:0.2"
+         id="path886"
+         cx="130"
+         cy="40"
+         r="5"
+		 class="theme-button"
+		 ojd-button="B"/>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.93347px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:'Calibri Bold';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.200005"
+         x="127.93655"
+         y="42.190414"
+         id="text894"
+		 class="theme-label-button"
+		 ojd-button="B"><tspan
+           sodipodi:role="line"
+           id="tspan892"
+           x="127.93655"
+           y="42.190414"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.93347px;font-family:Calibri;-inkscape-font-specification:'Calibri Bold';fill:#f9f9f9;fill-opacity:1;stroke-width:0.200005">B</tspan></text>
+    </g>
+    <g
+       id="g978"
+       transform="translate(10.5)" >
+      <circle
+         style="fill:#1b1b1b;fill-opacity:1;fill-rule:evenodd;stroke-width:0.2"
+         id="path886-1"
+         cx="142.5"
+         cy="27.5"
+         r="5"
+		 inkscape:label="btnA"
+		 class="theme-button"
+		 ojd-button="A" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.93333px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:'Calibri Bold';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.2"
+         x="140.39772"
+         y="29.69034"
+         id="text939"
+		 class="theme-label-button"
+		 ojd-button="A" ><tspan
+           sodipodi:role="line"
+           id="tspan937"
+           x="140.39772"
+           y="29.69034"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.93333px;font-family:Calibri;-inkscape-font-specification:'Calibri Bold';fill:#f9f9f9;fill-opacity:1;stroke-width:0.2">A</tspan></text>
+    </g>
+    <g
+       id="g973"
+       transform="translate(10.5)">
+      <circle
+         style="fill:#1b1b1b;fill-opacity:1;fill-rule:evenodd;stroke-width:0.2"
+         id="path886-2"
+         cx="130"
+         cy="15"
+         r="5"
+		 class="theme-button"
+		 ojd-button="X"/>
+      <text
+         xml:space="preserve"
+         style="font-weight:bold;font-size:6.93334px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:'Calibri Bold';fill:#f9f9f9;fill-opacity:1;stroke-width:0.2"
+         x="128.09608"
+         y="17.190346"
+         id="text943"
+		 class="theme-label-button"
+		 ojd-button="X"><tspan
+           sodipodi:role="line"
+           id="tspan941"
+           x="128.09608"
+           y="17.190346"
+           style="fill:#f9f9f9;fill-opacity:1;stroke-width:0.2">X</tspan></text>
+    </g>
+    <g
+       id="g968"
+       transform="translate(10.5)">
+      <circle
+         style="fill:#1b1b1b;fill-opacity:1;fill-rule:evenodd;stroke-width:0.2"
+         id="path886-8"
+         cx="117.5"
+         cy="27.5"
+         r="5"
+		 class="theme-button"
+		 ojd-button="Y"/>
+      <text
+         xml:space="preserve"
+         style="font-weight:bold;font-size:6.93334px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:'Calibri Bold';fill:#f9f9f9;fill-opacity:1;stroke-width:0.2"
+         x="115.6999"
+         y="29.690346"
+         id="text943-5"
+		 class="theme-label-button"
+		 ojd-button="Y"><tspan
+           sodipodi:role="line"
+           id="tspan941-2"
+           x="115.6999"
+           y="29.690346"
+           style="fill:#f9f9f9;fill-opacity:1;stroke-width:0.2">Y</tspan></text>
+    </g>
+    <g
+       id="g1006"
+       transform="translate(10.5)">
+      <circle
+         style="fill:#1b1b1b;fill-opacity:1;fill-rule:evenodd;stroke-width:0.2"
+         id="path963"
+         cx="115"
+         cy="12.5"
+         r="2.5"
+		 class="theme-button"
+         ojd-button="MINUS" />
+      <text
+         xml:space="preserve"
+         style="font-weight:bold;font-size:6.93334px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:'Calibri Bold';fill:#f9f9f9;fill-opacity:1;stroke-width:0.2"
+         x="113.93866"
+         y="14.199479"
+         id="text997"
+		 class="theme-label-button"
+         ojd-button="MINUS" ><tspan
+           sodipodi:role="line"
+           id="tspan995"
+           x="113.93866"
+           y="14.199479"
+           style="fill:#f9f9f9;fill-opacity:1;stroke-width:0.2">-</tspan></text>
+    </g>
+    <g
+       id="g1011"
+       transform="translate(10.5)">
+      <circle
+         style="fill:#1b1b1b;fill-opacity:1;fill-rule:evenodd;stroke-width:0.2"
+         id="path963-4"
+         cx="145"
+         cy="12.5"
+         r="2.5"
+		 class="theme-button"
+         ojd-button="PLUS" />
+      <text
+         xml:space="preserve"
+         style="font-weight:bold;font-size:6.93335px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:'Calibri Bold';fill:#f9f9f9;fill-opacity:1;stroke-width:0.2"
+         x="143.2737"
+         y="14.448291"
+         id="text1001"
+		 class="theme-label-button"
+         ojd-button="PLUS" ><tspan
+           sodipodi:role="line"
+           id="tspan999"
+           x="143.2737"
+           y="14.448291"
+           style="fill:#f9f9f9;fill-opacity:1;stroke-width:0.2">+</tspan></text>
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="Triggers">
+    <g
+       id="g1086"
+       transform="translate(8.5)">
+      <path
+         style="fill:#1b1b1b;fill-opacity:1;stroke:none;stroke-width:0.199986px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 157.04685,24.00002 187,23.99802 c 0,0 -1.88872,-8.193466 -8.3796,-12.268737 -2.57683,-1.617856 -6.69295,-1.722762 -10.963,-1.722762 -15.02602,0 -9.64,-0.0065 -9.64,-0.0065 0,0 -0.99351,0.02564 -1.01226,0.925628 -0.0236,1.130966 0.0417,13.07237 0.0417,13.07237 z"
+         id="path1022"
+         sodipodi:nodetypes="ccsscscc"
+		 class="theme-button"
+		 ojd-button="R2" />
+      <text
+         xml:space="preserve"
+         style="font-weight:bold;font-size:6.93334px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:'Calibri Bold';stroke-width:0.2"
+         x="164.49994"
+         y="20.018724"
+         id="text1075"
+		 class="theme-label-button"
+		 ojd-button="R2" ><tspan
+           sodipodi:role="line"
+           id="tspan1073"
+           x="164.49994"
+           y="20.018724"
+           style="font-size:9.6px;fill:#f9f9f9;fill-opacity:1;stroke-width:0.2">ZR</tspan></text>
+    </g>
+    <g
+       id="g1091"
+       transform="translate(8.5)">
+      <rect
+         style="fill:#1b1b1b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect1054-7"
+         width="30"
+         height="14"
+         x="157"
+         y="29"
+         rx="1"
+         ry="1"
+		 class="theme-button"
+		 ojd-button="R" />
+      <text
+         xml:space="preserve"
+         style="font-weight:bold;font-size:9.6px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:'Calibri Bold';fill:#f9f9f9;fill-opacity:1;stroke-width:0.2"
+         x="169.08907"
+         y="39.018726"
+         id="text1079"
+		 class="theme-label-button"
+		 ojd-button="R" ><tspan
+           sodipodi:role="line"
+           id="tspan1077"
+           x="169.08907"
+           y="39.018726"
+           style="font-size:9.6px;fill:#f9f9f9;fill-opacity:1;stroke-width:0.2">R</tspan></text>
+    </g>
+    <g
+       id="g1104">
+      <path
+         style="fill:#1b1b1b;fill-opacity:1;stroke:none;stroke-width:0.199986px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 30.95315,23.999999 1,23.997999 c 0,0 1.88872,-8.193466 8.3795998,-12.268737 C 11.95643,10.111406 16.07255,10.0065 20.3426,10.0065 c 15.026019,0 9.64,-0.0065 9.64,-0.0065 0,0 0.99351,0.02564 1.01226,0.925628 0.0236,1.130966 -0.0417,13.07237 -0.0417,13.07237 z"
+         id="path1022-8"
+         sodipodi:nodetypes="ccsscscc"
+		 class="theme-button"
+		 ojd-button="L2"
+		 ojd-trigger="0"/>
+      <text
+         xml:space="preserve"
+         style="font-weight:bold;font-size:9.6px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:'Calibri Bold';fill:#f9f9f9;fill-opacity:1;stroke-width:0.2"
+         x="14.094538"
+         y="20.04685"
+         id="text1095"
+		 class="theme-label-button"
+		 ojd-button="L2"><tspan
+           sodipodi:role="line"
+           id="tspan1093"
+           x="14.094538"
+           y="20.04685"
+           style="font-size:9.6px;fill:#f9f9f9;fill-opacity:1;stroke-width:0.2">ZL</tspan></text>
+    </g>
+    <g
+       id="g1109">
+      <rect
+         style="fill:#1b1b1b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect1054"
+         width="30"
+         height="14"
+         x="1"
+         y="29"
+         rx="1"
+         ry="1"
+		 class="theme-button"
+		 ojd-button="L"/>
+      <text
+         xml:space="preserve"
+         style="font-weight:bold;font-size:9.6px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:'Calibri Bold';fill:#f9f9f9;fill-opacity:1;stroke-width:0.2"
+         x="13.672663"
+         y="39.046852"
+         id="text1099"
+		 class="theme-label-button"
+		 ojd-button="L"><tspan
+           sodipodi:role="line"
+           id="tspan1097"
+           x="13.672663"
+           y="39.046852"
+           style="font-size:9.6px;fill:#f9f9f9;fill-opacity:1;stroke-width:0.2">L</tspan></text>
+    </g>
+  </g>
+</svg>
