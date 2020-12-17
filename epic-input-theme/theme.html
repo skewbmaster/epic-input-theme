@@ -1,9 +1,14 @@
 <div class='theme'>
+	<script src="drawline.js"></script>
+	<div></div>
 	<div class='theme-svg' ojd-svg='%DIRECTORY%/images/inputs.svg'></div>
 	<div class='theme-analog-wrapper'>
-		<div ojd-directional='0' class='theme-analog'></div>
+		<div ojd-directional='0' class='theme-analog' id="LeftThumb"></div>
+		<svg height="400" width="400">
+			<line x1="206" y1="206" x2="206" y2="206" style="stroke:#f9f9f9;stroke-width:3" id="LeftLine"></line>
+		</svg>
 	</div>
 	<div class='theme-analog-right-wrapper'>
-		<div ojd-directional='1' class='theme-analog'></div>
+		<div ojd-directional='1' class='theme-analog' id="RightThumb"></div>
 	</div>
 </div>
